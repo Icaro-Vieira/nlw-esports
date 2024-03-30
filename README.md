@@ -1,4 +1,4 @@
-# 9ª Edição - NLW eSprots
+# 9ª Edição - NLW eSports
 
 > Trilha Explorer
 
